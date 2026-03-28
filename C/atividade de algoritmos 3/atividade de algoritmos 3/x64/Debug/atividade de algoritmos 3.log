@@ -1,0 +1,3 @@
+﻿  atividade de algoritmos 3.cpp
+C:\Users\vitor\source\repos\atividade de algoritmos 3\atividade de algoritmos 3\atividade de algoritmos 3.cpp(34,13): error C2297: '*': inválido, pois o operando direito tem o tipo 'float *'
+C:\Users\vitor\source\repos\atividade de algoritmos 3\atividade de algoritmos 3\atividade de algoritmos 3.cpp(37,12): warning C4477: 'printf': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'float *'
