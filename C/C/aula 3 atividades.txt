@@ -1,0 +1,92 @@
+FIX01_EX01
+
+	Entradas:
+		usuario deve inserir a informação de sua idade.
+		idade declarada como variavel inteiro
+	processamentos:
+		n/a
+	saida:
+		Apresentar a informação da inteira "idade" do usuario junto a mensagem "Legal! Você tem *idade* anos!"
+
+FIX01_EX02
+	Entrada:
+		ano que nasceu ou nascimento deve ser declarada como uma variavel inteiro
+		constante ano atual deve ser declarada
+		variavel idade do usuario deve ser declarada
+	Processamento:
+		idade atual será o ano atual subtraido do nascimento do usuario
+	Saida:
+		idade atual do usuario deve ser apresentada ao usuario
+
+FIX01_EX03
+	entrada:
+        Variavel temperatura atual em graus Cº declarada
+        variavel temperatura em graus Fahrenheit declarada pelo usuario
+    processamento:
+        valor da temperatura atual deve ser convertida para Fahrenheit usando a
+        formula: F = (9 * Cº / 5) + 32
+        onde F será a temperatura Fahrenheit atual e C a temperatura Celsios atual
+    Saida:
+        apresentar ao usuario o valor da conversão de celsius para fahrenheit com alguma mensagem
+
+
+FIX01_EX04
+	Entradas
+		float Raio: (%F) (Dado informado pelop usuario)
+
+
+	processamentos
+
+		Res = 3.14 * (Raio * raio)
+		PI*r²(FORMULA DA AREA DA CIRCUFERENCIA)
+
+	saida
+
+		variavel float como resultado final (%F)
+		apresentar na tela o Resultado com texto.
+
+FIX01_EX5
+    Entradas:
+        variavel valor da venda do carro declarada
+        variavel preço da montadora declarado pelo usuario
+    processamento:
+        A variavel venda do carro será o preço da montadora + 15% de lucro + 11% de IPI + 17% de ICMS todas as porcentagens do valor do preço da montadora
+        separar os impostos do preço da montadora
+    Saida:
+        apresentar ao usuario o valor do preço do carro junto ao preço dos impostos com algum texto informativo
+FIX01_EX6
+    Entradas:
+        usuario declarar variavel (a) e (b)
+    processamento
+        fazer o cubo da soma (a + b)³
+    saida
+FIX01_EX7
+    Entradas:
+        entrada de 3 valores sendo declarados pelo usuario (a, b e c)
+    processamento:
+        media ponderada dos valores com o peso 2, 3 e 5 respectivamente para a, b e c
+    saida:
+        apresentar ao usuario a media ponderada
+FIX01_EX8
+    Entrada:
+
+    Processamento:
+
+    Saida:
+FIX01_EX9
+    Entrada:
+
+    Processamento:
+
+    Saida:
+FIX01_EX10
+    Entrada:
+
+    Processamento:
+
+    Saida:
+
+
+
+
+
