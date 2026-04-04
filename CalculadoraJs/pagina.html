@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main><div id="pagina" class="pagina">        
+            <div id="acimaCalculadora" class="TextoGeral">
+            <h1 >Calculadora de operações basicas</h1>
+            </div>
+
+            <div id="caixaPrincipal" class="CaixaPrincipal">
+                <div>
+                    <label for="val1">Valor 1</label>
+                    <input type="number" value="0" name="val1" id="val1" class="ValueBox"/>
+                </div>
+                <div>
+                    <label for="val2">Valor 2</label>
+                    <input type="number" value="0" name="val2" id="val2" class="ValueBox"/>
+                </div>
+                <div>
+                    <label>Resultado</label> 
+                    <input type="number" value="0" name="res" id="res" class="ValueBox" readonly style="cursor: not-allowed; "/>
+                </div>
+                <div> 
+                    <p class="BoxText">Escolher operação</p>
+                </div>
+                <div>
+                    <div id="buttons" class="Buttons">
+                        <button id="button1" class="Button">+</button>
+                        <button id="button2" class="Button">-</button>
+                        <button id="button3" class="Button">*</button>
+                        <button id="button4" class="Button">/</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+</main>
+<script src="javascript.js"></script>
+</body>
+</html>
